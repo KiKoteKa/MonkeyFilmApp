@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171415455039",
+    "project_id": "monkeyfilm-app",
+    "storage_bucket": "monkeyfilm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171415455039:android:d996dd1145d00436b2bf8a",
+        "android_client_info": {
+          "package_name": "gomis.francisco.realizarappmonkeyfilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171415455039-aiecck06kjb8q0sbt0j3f1521hnfiacl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTy5PxoTopLeEX9pgDpfyLkcMZdZ07G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171415455039-aiecck06kjb8q0sbt0j3f1521hnfiacl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

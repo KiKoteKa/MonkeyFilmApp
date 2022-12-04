@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealizarAppMonkeyFilm</string>
+    <string name="title_activity_pantalla_usuario">PantallaUsuario</string>
+    <string name="title_activity_pantalla_registrarse">PantallaRegistrarse</string>
+    <string name="title_activity_pantalla_add_pelicula">PantallaAddPelicula</string>
+    <string name="title_activity_pantalla_mostrar_pelicula">PantallaMostrarPelicula</string>
+</resources>
